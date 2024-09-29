@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1027193499016",
+    "project_id": "gdgtask-96954",
+    "storage_bucket": "gdgtask-96954.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027193499016:android:566accd45457992e901e3d",
+        "android_client_info": {
+          "package_name": "com.example.gdg_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbvPtgFCNRvNE2qD5VtNIJcMDT1eCrtG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
